@@ -1,5 +1,4 @@
-
-import { Hotel, Room, Reservation } from "../types";
+import { Hotel, Room, Reservation, Guest } from "../types";
 
 export const hotels: Hotel[] = [
   {
